@@ -5,4 +5,8 @@
 //  Created by Mac$hawn on 2/17/24.
 //
 
-import Foundation
+import UIKit
+
+struct Models {
+    let firstname: String
+}

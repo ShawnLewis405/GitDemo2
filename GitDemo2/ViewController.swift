@@ -8,11 +8,15 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    //  MARK: - properties (views)
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    //  MARK: - Hello comment
 
 
 }

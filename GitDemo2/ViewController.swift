@@ -10,6 +10,8 @@ import UIKit
 class ViewController: UIViewController {
     
     //  MARK: - properties (views)
+    
+    let image = UIImageView()
 
     override func viewDidLoad() {
         super.viewDidLoad()

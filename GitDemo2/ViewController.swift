@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     //  MARK: - properties (views)
     
     let image = UIImageView()
+    let nameLabel = UILabel()
 
     override func viewDidLoad() {
         super.viewDidLoad()
